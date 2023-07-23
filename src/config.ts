@@ -3,7 +3,7 @@ export const site = {
     slogan: '努力成为一个很哇塞的人',
     description: '',
     keywords: '',
-    favicon: '/favicon.ico',
+    favicon: '/favicon-h.ico',
     url: 'https://ahwe.link'
 }
 export const footer = {
