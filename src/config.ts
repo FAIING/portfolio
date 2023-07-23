@@ -1,5 +1,5 @@
 export const site = {
-    author: 'YuanMo',
+    author: 'Hwe',
     slogan: '努力成为一个很哇塞的人',
     description: '',
     keywords: '',
